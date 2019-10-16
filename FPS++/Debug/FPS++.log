@@ -1,0 +1,5 @@
+﻿  FPS++.cpp
+C:\Users\Joach\source\repos\FPS++\FPS++\FPS++.cpp(33,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Joach\source\repos\FPS++\FPS++\FPS++.cpp(171,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Joach\source\repos\FPS++\FPS++\FPS++.cpp(181,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FPS++.vcxproj -> C:\Users\Joach\source\repos\FPS++\Debug\FPS++.exe
